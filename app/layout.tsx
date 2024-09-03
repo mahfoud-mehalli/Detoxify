@@ -20,9 +20,9 @@ export default function RootLayout({
     <html lang="en">
       <body className={inter.className}>
         <ConvexClientProvider>
-        <div className='main'>
+        {/* <div className='main'>
           <div className='gradient' />
-        </div>
+        </div> */}
           <main className='app'>
             <Header />
             {children}

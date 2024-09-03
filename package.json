@@ -9,7 +9,10 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@clerk/clerk-react": "^5.7.0",
+    "classnames": "^2.5.1",
     "convex": "^1.15.0",
+    "detoxify": "file:",
     "next": "14.2.7",
     "react": "^18",
     "react-dom": "^18"
